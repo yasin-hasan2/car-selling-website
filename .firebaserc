@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "car-hub-80663",
+    "y": "car-hub-80663",
+    "car-hub-80663": "car-hub-80663"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
